@@ -3,7 +3,7 @@
 
 
 
-**This is Qinxuan's first githun file.**
+**This is Qinxuan's first github file.**
 
 
 
