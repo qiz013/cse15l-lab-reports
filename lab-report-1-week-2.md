@@ -35,5 +35,6 @@ This page is updated using [Visual Studio Code](https://code.visualstudio.com/).
 ## Step6:
 
 ![image](screenshot5.png)
-- write a command in quotes at the end of an ssh command to directly run it on the remote server, then exit
-- this should not require password if my problem in Step5 can be solved
+- write the command `ls` in quotes at the end of an ssh command 
+- it can be directly run on the remote server, then exit as the keystroke is set
+
