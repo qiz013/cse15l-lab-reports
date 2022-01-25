@@ -1,3 +1,5 @@
+This page is updated using [Visual Studio Code](https://code.visualstudio.com/).
+
 ## Step1: 
 
 ![image](screenshot1.png)
@@ -28,7 +30,7 @@
 - use command "ssh-keygen" creates a pair of files called the public key and private key stored in the server and client respectively
 
 ![image](screenshot5.png)
-- but I get stuck when copying the public key to my account on the server. How to solve it?
+- copy the public (not the private) key to the .ssh directory of your user account on the server
 
 ## Step6:
 
