@@ -29,12 +29,12 @@ This page is updated using [Visual Studio Code](https://code.visualstudio.com/).
 ![image](screenshot5.png)
 - use command "ssh-keygen" creates a pair of files called the public key and private key stored in the server and client respectively
 
-![image](screenshot5.png)
+![image](screenshot6.png)
 - copy the public (not the private) key to the .ssh directory of your user account on the server
 
 ## Step6:
 
-![image](screenshot5.png)
+![image](screenshot7.png)
 - write the command `ls` in quotes at the end of an ssh command 
 - it can be directly run on the remote server, then exit as the keystroke is set
 
