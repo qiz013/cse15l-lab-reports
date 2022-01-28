@@ -9,6 +9,7 @@
 
 - test file for a failure-inducing input: 
 test-file3
+![image](l2p2_1.png)
 
 
 symptom & changes: fixed double output and saved files so we don’t get empty link lists
@@ -19,6 +20,7 @@ symptom & changes: fixed double output and saved files so we don’t get empty l
 
 Problem: updated index twice 
 Symptom: unexpected output
+
 
 
 -  in fact, my group did not strictly make three changes to the code 
