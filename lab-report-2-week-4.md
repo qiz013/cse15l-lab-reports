@@ -2,6 +2,9 @@
 
 ![image](l2p1.png)
 
+Problem: undesired test case design 
+Symptom: unexpected output
+
 
 ## Change2
 
@@ -9,6 +12,7 @@
 
 - test file for a failure-inducing input: 
 test-file3
+
 ![image](l2p2_1.png)
 
 
@@ -18,12 +22,13 @@ symptom & changes: fixed double output and saved files so we don’t get empty l
 
 ![image](l2p3.png)
 
-Problem: updated index twice 
-Symptom: unexpected output
+Problem: deplicated commands 
+Symptom: compilation and running errors of the codes
 
 
 ## some remarks:
- in fact, my group did not strictly make three changes to the code 
+- in fact, my group did not strictly make three changes to the code 
+
 
 ## relationship between the bug, the symptom, and the failure-inducing input:
 
