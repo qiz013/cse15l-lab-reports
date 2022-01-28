@@ -22,8 +22,10 @@ Problem: updated index twice
 Symptom: unexpected output
 
 
+## some remarks:
+ in fact, my group did not strictly make three changes to the code 
 
--  in fact, my group did not strictly make three changes to the code 
+## relationship between the bug, the symptom, and the failure-inducing input:
 
 failure - inducing input : an input or a test-case which causes your code to fail (i.e. exception (compile time, runtime) or cause nonsensical output) 
 symptom : is a problem/ an outcome different from the expected 
